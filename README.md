@@ -1,3 +1,3 @@
-# Argus Automation Service
+# Argus Robotic Client
 
-The Argus Automation Service provides support for QA, testing, and administation of the Argus Simulation system.
+The Argus Robotic Client provides support for QA, testing, and administation of the Argus Simulation system.
