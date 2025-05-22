@@ -1,3 +1,3 @@
 # Argus Robotic Client
 
-The Argus Robotic Client provides support for QA, testing, and administation of the Argus Simulation system.
+The Argus Robotic Client enables the operator to perform QA, testing, and administration of the Argus Robotic Simulation system.

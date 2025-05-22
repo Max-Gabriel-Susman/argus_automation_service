@@ -1,0 +1,49 @@
+###############################################################################
+#  General Python                                                            #
+###############################################################################
+# Byte-code & interpreter junk
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+# Packaging metadata
+*.egg-info/
+*.egg
+dist/
+build/           
+
+# Virtual-envs / tools
+.venv/
+venv/
+env/
+.tox/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+###############################################################################
+#  ROS 2 / colcon                                                            #
+###############################################################################
+# Top-level build artifacts created by `colcon build`
+src/build/
+src/install/
+src/log/
+
+# For potential workspaces inside sub-folders
+**/build/
+**/install/
+**/log/
+
+# Colcon helper files
+.colcon/
+colcon*.log
+
+###############################################################################
+#  Editor / OS noise                                                         #
+###############################################################################
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
